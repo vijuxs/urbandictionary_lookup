@@ -1,3 +1,3 @@
 # urbandictionary_lookup
-usage: java UD <your phrase>
+usage: java UD [your phrase]
   
